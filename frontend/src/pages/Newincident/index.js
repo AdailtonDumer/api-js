@@ -74,7 +74,7 @@ export default function NewIncident(){
                      />
 
                     <input 
-                    placeholder = "Valor em reais" 
+                    placeholder = "Valor em reaal" 
                     value = {value}
                     onChange = {e => setValue(e.target.value)}
                     />
